@@ -1,0 +1,12 @@
+Max Guo
+November 21, 2011
+AVL Tree
+
+TODO: - avlDelete doesn’t fully work, doesn’t appear to rebalance correctly
+            if at all, given example for delete works
+      - avlInsert not fully tested, may have bugs
+
+USAGE: - main only runs a few hard coded tests
+
+             can add more test cases, use current test cases as examples
+             or run directly in ghci
